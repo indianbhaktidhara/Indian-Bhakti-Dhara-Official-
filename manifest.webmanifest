@@ -1,0 +1,16 @@
+{
+  "name": "Indian Bhakti Dhara",
+  "short_name": "Bhakti Dhara",
+  "description": "Sacred Devotional Hub & Sanatan Wisdom portal featuring devotional videos, sacred shorts, 108 mala japa sanctuary, daily Vedic panchang, and multi-platform channels.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2C0005",
+  "theme_color": "#FF6F00",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

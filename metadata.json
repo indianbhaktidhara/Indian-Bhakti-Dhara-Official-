@@ -1,0 +1,6 @@
+{
+  "name": "Indian Bhakti Dhara",
+  "description": "Sacred Devotional Hub & Sanatan Wisdom portal featuring devotional videos, sacred shorts, 108 mala japa sanctuary, daily Vedic panchang, and multi-platform channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
